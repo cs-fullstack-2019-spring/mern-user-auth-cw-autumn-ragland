@@ -5,3 +5,6 @@ Create a MERN stack with user authentication to hold a user's email address. Cre
 - Log Out: Log out the user.
 
 Make sure to use cookies, and salt/hash your passwords.
+<hr>
+1 point.
+Cookies are not working
